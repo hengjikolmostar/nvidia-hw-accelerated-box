@@ -17,7 +17,7 @@ Among the other packages these scripts will install
 # Installation
 SSH into your EC2 box, once in just run the following
 ```bash
-git clone https://github.com/plumbee/nvidia-hw-accelerated-box.git
+git clone https://github.com/hengjikolmostar/nvidia-hw-accelerated-box.git
 cd nvidia-hw-accelerated-box
 sudo su
 source setup.sh
